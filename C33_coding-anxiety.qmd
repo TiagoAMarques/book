@@ -6,7 +6,7 @@ author:
   email: tiago.marques@st-andrews.ac.uk 
   corresponding: true
   affiliation: 
-    - name: Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa 
+    - name: Centro de Estatística e Aplicações, Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa 
       city: Lisboa 
       country: Portugal 
     - name: Centre for Research into Ecological and Environmental Modelling, University of St Andrews 
@@ -141,7 +141,8 @@ Coding anxiety is real, especially in students for whom coding isn't a core part
 
 ## Funding
 
-TAMs work is partially funded by national funds through FCT – Fundação para a Ciência e a Tecnologia, I.P., under CEAUL Research Unit, UID/00006/2025, DOI: <https://doi.org/10.54499/UID/00006/2025>
+
+TAMs  work is partially funded by FCT – Fundação para a Ciência e a Tecnologia, I.P., under CEAUL Research Unit, UID/00006/2025, DOI: <https://doi.org/10.54499/UID/00006/2025>, and by the European Union – NextGenerationEU through the project UID/PRR/00006/2025, DOI: <https://doi.org/10.54499/UID/PRR/00006/2025>.
 
 ::: {.content-visible when-format="html" unless-format="epub"}
 
